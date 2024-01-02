@@ -16,11 +16,11 @@ Mam 21 lat i jestem pasjonatem technologii, z głębokim zainteresowaniem w dzie
 
 ### 🤖 Pasje i zainteresowania
 - **Programowanie:** Fascynuje mnie możliwość tworzenia nowych rzeczy i rozwiązywania problemów za pomocą kodu.
-- **Sztuczna Inteligencja:** Szczególnie interesuje mnie jak AI może zmieniać świat i jak mogę przyczynić się do tej rewolucji.
+- **Sztuczna Inteligencja:** Szczególnie interesuje mnie jak AI może zmieniać świat.
 - **Boks:** Utrzymuję równowagę między pracą umysłową a aktywnością fizyczną poprzez regularny trening bokserski, który pomaga mi utrzymać kondycję i koncentrację.
 
 ### 🌐 Społeczność
-- Chętnie angażuję się w projekty open-source i współpracuję z innymi programistami. Jeśli masz jakiś interesujący projekt lub potrzebujesz pomocy, śmiało się ze mną skontaktuj!
+- Chętnie angażuję się w projekty open-source i współpracuję z innymi programistami.
 
 ### 📫 Kontakt
 - **Email:** pawelgniew02@gmail.com

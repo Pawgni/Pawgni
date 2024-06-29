@@ -2,7 +2,7 @@
 
 ## 👋 Cześć, jestem Paweł!
 
-Mam 21 lat i jestem pasjonatem technologii, z głębokim zainteresowaniem w dziedzinie programowania, sztucznej inteligencji i boksu. Obecnie studiuję Informatykę i Ekonometrię na Uniwersytecie Gdańskim, gdzie rozwijam moje umiejętności analityczne i techniczne.
+Obecnie studiuję Informatykę i Ekonometrię na Uniwersytecie Gdańskim, gdzie rozwijam moje umiejętności analityczne i techniczne.
 
 ### 📚 Edukacja
 - **Uniwersytet Gdański**
@@ -15,9 +15,9 @@ Mam 21 lat i jestem pasjonatem technologii, z głębokim zainteresowaniem w dzie
   - JavaScript
 
 ### 🤖 Pasje i zainteresowania
-- **Programowanie:** Fascynuje mnie możliwość tworzenia nowych rzeczy i rozwiązywania problemów za pomocą kodu.
-- **Sztuczna Inteligencja:** Szczególnie interesuje mnie jak AI może zmieniać świat.
-- **Boks:** Utrzymuję równowagę między pracą umysłową a aktywnością fizyczną poprzez regularny trening bokserski, który pomaga mi utrzymać kondycję i koncentrację.
+- **Programowanie:**
+- **Sztuczna Inteligencja:** 
+- **Boks:**
 
 ### 🌐 Społeczność
 - Chętnie angażuję się w projekty open-source i współpracuję z innymi programistami.
@@ -26,6 +26,3 @@ Mam 21 lat i jestem pasjonatem technologii, z głębokim zainteresowaniem w dzie
 - **Email:** pawelgniew02@gmail.com
 - **LinkedIn:** www.linkedin.com/in/paweł-gniewek-502492270
 
----
-
-Dziękuję za odwiedzenie mojego profilu! Zapraszam do przeglądania moich repozytoriów i współpracy przy ciekawych projektach!

@@ -2,7 +2,8 @@
 
 ## 👋 Cześć, jestem Paweł!
 
-Obecnie studiuję Informatykę i Ekonometrię na Uniwersytecie Gdańskim, gdzie rozwijam moje umiejętności analityczne i techniczne.
+#### 22 lata
+#### Gdańsk
 
 ### 📚 Edukacja
 - **Uniwersytet Gdański**

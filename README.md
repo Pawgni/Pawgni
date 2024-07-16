@@ -2,13 +2,13 @@
 
 ## 👋 Cześć, jestem Paweł!
 
-#### 22 lata
-#### Gdańsk
+#### ⌛ 22 lata
+#### 📍 Gdańsk
 
 ### 📚 Edukacja
 - **Uniwersytet Gdański**
   - **Kierunek:** Informatyka i Ekonometria
-  - **Rok:** [III]
+  - **Specjalność:** Aplikacje informatyczne w biznesie
 
 ### 💻 Technologie
 - **Aktualnie uczę się:**

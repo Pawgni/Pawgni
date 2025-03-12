@@ -14,11 +14,11 @@
 - **Aktualnie uczę się:**
   - MERN Stack (MongoDB, Express.js, React, Node.js)
   - JavaScript
+  - C#
 
 ### 🤖 Pasje i zainteresowania
 - **Programowanie:**
 - **Sztuczna Inteligencja:** 
-- **Boks:**
 
 ### 🌐 Społeczność
 - Chętnie angażuję się w projekty open-source i współpracuję z innymi programistami.
